@@ -1,5 +1,5 @@
 name: helmfile-and-yq
-
+on: push
 jobs:
   test:
     runs-on: ubuntu-latest
